@@ -3,4 +3,4 @@
 layout: default
 ---
 
-Content for Lab 1 coming soon!
+Content for Lab 3 coming soon!
