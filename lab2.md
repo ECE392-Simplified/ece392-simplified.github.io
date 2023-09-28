@@ -14,7 +14,7 @@ layout: default
   <li>Turn the DC supply on, make sure that the output is on.</li>
   <li>Turn the waveform generator on and set it to a sine wave.</li>
   <li>Turn the oscilloscope on and connect the cable to any of the channels. You should see something like fig 3.</li>
-  <figure><img src = "3.jpg" width="100%" /><figcaption>Fig 3. Expected output</figcaption></figure>
+  <figure><img src = "3.jpg" width="100%" /><figcaption>Fig 3. Expected output (Credits: Anna Chang)</figcaption></figure>
 </ol>
 
 
