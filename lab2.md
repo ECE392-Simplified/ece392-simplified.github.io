@@ -6,7 +6,7 @@ layout: default
 
 <ol>
   <li>Place the circuit on the breadboard as shown in fig 1.</li>
-  <figure><img src = "1.jpg" width=100% /> <figcaption>Fig 1. Circuit that goes on the breadboard</figcaption></figure>
+  <figure><img src = "1.jpg" width="100%" /> <figcaption>Fig 1. Circuit that goes on the breadboard</figcaption></figure>
 </ol>
 
 
