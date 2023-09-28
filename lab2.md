@@ -7,3 +7,5 @@ layout: default
 <ol>
   <li>Place the circuit on the breadboard as shown in fig 1.</li>
 </ol>
+
+<img src = "1.jpg" />
