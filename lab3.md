@@ -5,7 +5,7 @@ layout: default
 
 <b>Assembly and Testing:</b>
 - Wire the amplifier circuit based on your design.
-  <figure><img src = "4.jpg" width="100%" /> <figcaption>Fig 1. General Circuit</figcaption></figure>
+  <figure><img src = "4.gif" width="100%" /> <figcaption>Fig 1. General Circuit (https://ecelabs.njit.edu/ece392/lab3.php)</figcaption></figure>
   <figure><img src = "5.jpg" width="100%" /> <figcaption>Fig 2. Circuit that goes on the breadboard</figcaption></figure>
   <figure><img src = "6.jpg" width="100%" /> <figcaption>Fig 3. Oscilloscope, Waveform Generator, and DC supply connections</figcaption></figure>
 - Measure VE, VB, and VC in quiescent conditions.
